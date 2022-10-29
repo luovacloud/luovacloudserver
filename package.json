@@ -55,7 +55,7 @@
     "bootstrap": "^5.2.2",
     "browserslist-useragent-regexp": "^3.0.2",
     "buffer": "^6.0.3",
-    "camelcase": "^6.3.0",
+    "camelcase": "^7.0.0",
     "clipboard": "^2.0.10",
     "core-js": "^3.26.0",
     "davclient.js": "git+https://github.com/owncloud/davclient.js.git#0.2.1",
