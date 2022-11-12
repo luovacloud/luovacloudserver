@@ -70,7 +70,7 @@
     "jquery-ui": "^1.13.2",
     "jquery-ui-dist": "^1.13.2",
     "jstimezonedetect": "^1.0.7",
-    "libphonenumber-js": "^1.10.13",
+    "libphonenumber-js": "^1.10.14",
     "lodash": "^4.17.21",
     "marked": "^4.0.14",
     "moment": "^2.29.4",
