@@ -60,7 +60,7 @@
     "core-js": "^3.26.0",
     "davclient.js": "git+https://github.com/owncloud/davclient.js.git#0.2.1",
     "debounce": "^1.2.1",
-    "dompurify": "^2.4.0",
+    "dompurify": "^2.4.1",
     "escape-html": "^1.0.3",
     "focus-visible": "^5.2.0",
     "handlebars": "^4.7.7",
